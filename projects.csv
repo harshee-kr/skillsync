@@ -1,0 +1,6 @@
+Project_ID,Project_Name,Required_Skills,Priority,Deadline_Days,Progress,Required_Employees
+P001,Alpha AI Platform,Python|AI|SQL,High,7,55,3
+P002,Smart Banking System,Java|SQL|Cloud,Medium,15,70,2
+P003,Healthcare Analytics,Python|ML|Data Science,High,10,40,3
+P004,Cloud Migration,Cloud|DevOps|SQL,Medium,20,65,2
+P005,Customer Analytics,Python|Data Analytics|SQL,Low,25,80,2

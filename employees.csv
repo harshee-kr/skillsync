@@ -1,0 +1,13 @@
+Employee_ID,Name,Skills,Experience,Availability,Current_Workload
+E001,Arun,Python|AI|SQL,4,Available,45
+E002,Priya,Java|SQL|Cloud,3,Available,55
+E003,Karthik,Python|ML|Data Science,5,Available,35
+E004,Divya,Java|Spring|SQL,4,Busy,80
+E005,Rahul,Python|AI|Cloud,2,Available,40
+E006,Meena,Data Science|Python|ML,6,Available,30
+E007,Vijay,Java|Python|DevOps,5,Busy,75
+E008,Anitha,SQL|Cloud|Data Analytics,3,Available,50
+E009,Sanjay,AI|ML|Python,4,Available,25
+E010,Keerthi,Java|Cloud|DevOps,2,Available,45
+E011,Manoj,Python|SQL|Backend,5,Available,60
+E012,Lakshmi,ML|Data Science|Python,3,Available,35
